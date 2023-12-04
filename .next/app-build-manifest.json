@@ -26,10 +26,25 @@
       "static/chunks/main-app.js",
       "static/chunks/app/locations/page.js"
     ],
+    "/locations/Buildings/add/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/locations/Buildings/add/page.js"
+    ],
     "/locations/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/locations/layout.js"
+    ],
+    "/locations/add/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/locations/add/page.js"
+    ],
+    "/locations/[id]/edit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/locations/[id]/edit/page.js"
     ]
   }
 }
